@@ -1,1 +1,1 @@
-http://ekita-mobile.tanahlautkab.go.id/public
+http://ekita-mobile.tanahlautkab.go.id/public:8999
