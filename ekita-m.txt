@@ -1,1 +1,1 @@
-https://ekita-mobile.tanahlautkab.go.id/public
+https://ekita-mobile.tanahlautkab.go.id/public/api/v1
