@@ -1,1 +1,1 @@
-https://ekita-mobile.tanahlautkab.go.id/public/api/v1
+https://ekita-mobile.abn-tala.my.id/public/api/v1
